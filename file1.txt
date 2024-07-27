@@ -3,4 +3,5 @@ test file
 test file sample
 line of octagon and hex
 added text after emergency-fix
+added new line
 >>>>>>> fix-error
